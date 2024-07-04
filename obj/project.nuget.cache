@@ -1,0 +1,26 @@
+{
+  "version": 2,
+  "dgSpecHash": "MBtiULmc9EA=",
+  "success": true,
+  "projectFilePath": "/Users/bayramtelli/Desktop/aspNetCore/cronJobApp/cronJobApp.csproj",
+  "expectedPackageFiles": [
+    "/Users/bayramtelli/.nuget/packages/dapper/2.0.123/dapper.2.0.123.nupkg.sha512",
+    "/Users/bayramtelli/.nuget/packages/hangfire/1.8.14/hangfire.1.8.14.nupkg.sha512",
+    "/Users/bayramtelli/.nuget/packages/hangfire.aspnetcore/1.8.14/hangfire.aspnetcore.1.8.14.nupkg.sha512",
+    "/Users/bayramtelli/.nuget/packages/hangfire.core/1.8.14/hangfire.core.1.8.14.nupkg.sha512",
+    "/Users/bayramtelli/.nuget/packages/hangfire.netcore/1.8.14/hangfire.netcore.1.8.14.nupkg.sha512",
+    "/Users/bayramtelli/.nuget/packages/hangfire.postgresql/1.20.9/hangfire.postgresql.1.20.9.nupkg.sha512",
+    "/Users/bayramtelli/.nuget/packages/hangfire.sqlserver/1.8.14/hangfire.sqlserver.1.8.14.nupkg.sha512",
+    "/Users/bayramtelli/.nuget/packages/microsoft.csharp/4.7.0/microsoft.csharp.4.7.0.nupkg.sha512",
+    "/Users/bayramtelli/.nuget/packages/microsoft.extensions.configuration.abstractions/3.0.0/microsoft.extensions.configuration.abstractions.3.0.0.nupkg.sha512",
+    "/Users/bayramtelli/.nuget/packages/microsoft.extensions.dependencyinjection.abstractions/3.0.0/microsoft.extensions.dependencyinjection.abstractions.3.0.0.nupkg.sha512",
+    "/Users/bayramtelli/.nuget/packages/microsoft.extensions.fileproviders.abstractions/3.0.0/microsoft.extensions.fileproviders.abstractions.3.0.0.nupkg.sha512",
+    "/Users/bayramtelli/.nuget/packages/microsoft.extensions.hosting.abstractions/3.0.0/microsoft.extensions.hosting.abstractions.3.0.0.nupkg.sha512",
+    "/Users/bayramtelli/.nuget/packages/microsoft.extensions.logging.abstractions/3.0.0/microsoft.extensions.logging.abstractions.3.0.0.nupkg.sha512",
+    "/Users/bayramtelli/.nuget/packages/microsoft.extensions.primitives/3.0.0/microsoft.extensions.primitives.3.0.0.nupkg.sha512",
+    "/Users/bayramtelli/.nuget/packages/newtonsoft.json/11.0.1/newtonsoft.json.11.0.1.nupkg.sha512",
+    "/Users/bayramtelli/.nuget/packages/npgsql/6.0.11/npgsql.6.0.11.nupkg.sha512",
+    "/Users/bayramtelli/.nuget/packages/system.runtime.compilerservices.unsafe/6.0.0/system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
